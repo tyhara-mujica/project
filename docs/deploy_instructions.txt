@@ -1,0 +1,2 @@
+1. Run docker-compose up
+2. Access via localhost
